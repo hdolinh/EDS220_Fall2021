@@ -1,0 +1,24 @@
+name: opendap_working
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - scipy
+  - numpy
+  - matplotlib
+  - pandas
+  - geopandas
+  - contextily
+  - rasterio
+  - scipy
+  - cartopy
+  - xarray
+  - openblas==0.2.19
+  - netcdf4==1.5.1
+  - seawater
+  - iris
+  - folium
+  - palettable
+
+
